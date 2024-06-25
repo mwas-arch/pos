@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+	x:Class="librepos.AppShell"
+	xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:views="clr-namespace:librepos.Views"
+	xmlns:local="clr-namespace:librepos">
+
+	<ShellContent
+		Shell.NavBarIsVisible="true"
+		Title="Main"
+		Icon="iconblank.png"
+		ContentTemplate="{DataTemplate views:MainPage}"
+		Route="MainPage" />
+	<ShellContent
+		Shell.NavBarIsVisible="true"
+		Title="ListDetail"
+		Icon="iconlistdetail.png"
+		ContentTemplate="{DataTemplate views:ListDetailPage}"
+		Route="ListDetailPage" />
+	<ShellContent
+		Shell.NavBarIsVisible="true"
+		Title="Map"
+		Icon="iconmap.png"
+		ContentTemplate="{DataTemplate views:MapPage}"
+		Route="MapPage" />
+	<ShellContent
+		Shell.NavBarIsVisible="true"
+		Title="MediaElement"
+		Icon="iconmediaelement.png"
+		ContentTemplate="{DataTemplate views:MediaElementPage}"
+		Route="MediaElementPage" />
+	<ShellContent
+		Shell.NavBarIsVisible="true"
+		Title="Map1"
+		Icon="iconmap.png"
+		ContentTemplate="{DataTemplate views:Map1Page}"
+		Route="Map1Page" />
+</Shell>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="librepos.Views.MainPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:vm="clr-namespace:librepos.ViewModels"
+    x:DataType="vm:MainViewModel">
+
+
+
+
+
+
+    <VerticalStackLayout
+        Margin="15"
+        Padding="30,60,30,30"
+        BackgroundColor="#512bdf">
+        <Label
+            FontSize="30"
+            Text="Please log in"
+            TextColor="AntiqueWhite" />
+        <Label Text="Username" TextColor="White" />
+        <Entry />
+        <Label Text="Password" TextColor="White" />
+        <Entry IsPassword="True" />
+        <Button BackgroundColor="#0094FF" Text="Log in" />
+    </VerticalStackLayout>
+
+</ContentPage>
+
