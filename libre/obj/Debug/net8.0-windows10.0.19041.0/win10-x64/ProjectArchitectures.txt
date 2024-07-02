@@ -1,0 +1,1 @@
+C:\Users\mwas\source\repos\libre\libre\libre.csproj;x64
