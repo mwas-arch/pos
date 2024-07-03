@@ -11,5 +11,6 @@
         Title="libre point of sale "
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
+    
 
 </Shell>

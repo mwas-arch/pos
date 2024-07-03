@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\mwas\source\repos\libre\libre\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-07-02T12:24:57.997</Modified>
+      <Modified>2024-07-03T12:22:13.398</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-07-02T12:24:57.593</Modified>
+      <Modified>2024-07-03T11:26:44.825</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\libre.runtimeconfig.json">
       <PackagePath>libre.runtimeconfig.json</PackagePath>
-      <Modified>2024-07-02T12:24:57.130</Modified>
+      <Modified>2024-07-03T11:26:44.715</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\libre.dll">
       <PackagePath>libre.dll</PackagePath>
-      <Modified>2024-07-02T12:24:55.714</Modified>
+      <Modified>2024-07-03T12:22:11.127</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>libre.exe</PackagePath>
-      <Modified>2024-07-02T12:24:55.721</Modified>
+      <Modified>2024-07-03T12:22:11.279</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -56,23 +56,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-07-02T12:09:36.103</Modified>
+      <Modified>2024-07-03T11:26:42.271</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-07-02T12:09:36.154</Modified>
+      <Modified>2024-07-03T11:26:42.306</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-07-02T12:09:36.229</Modified>
+      <Modified>2024-07-03T11:26:42.362</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-07-02T12:09:36.322</Modified>
+      <Modified>2024-07-03T11:26:42.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-07-02T12:09:36.546</Modified>
+      <Modified>2024-07-03T11:26:42.595</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -84,211 +84,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-07-02T12:09:40.812</Modified>
+      <Modified>2024-07-03T11:26:43.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.801</Modified>
+      <Modified>2024-07-03T11:26:43.905</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.801</Modified>
+      <Modified>2024-07-03T11:26:43.905</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.801</Modified>
+      <Modified>2024-07-03T11:26:43.905</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.800</Modified>
+      <Modified>2024-07-03T11:26:43.904</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.800</Modified>
+      <Modified>2024-07-03T11:26:43.904</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.808</Modified>
+      <Modified>2024-07-03T11:26:43.911</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.807</Modified>
+      <Modified>2024-07-03T11:26:43.911</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.807</Modified>
+      <Modified>2024-07-03T11:26:43.910</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.807</Modified>
+      <Modified>2024-07-03T11:26:43.911</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.807</Modified>
+      <Modified>2024-07-03T11:26:43.910</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.809</Modified>
+      <Modified>2024-07-03T11:26:43.912</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.809</Modified>
+      <Modified>2024-07-03T11:26:43.912</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.808</Modified>
+      <Modified>2024-07-03T11:26:43.911</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.809</Modified>
+      <Modified>2024-07-03T11:26:43.912</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.809</Modified>
+      <Modified>2024-07-03T11:26:43.911</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.811</Modified>
+      <Modified>2024-07-03T11:26:43.914</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.811</Modified>
+      <Modified>2024-07-03T11:26:43.914</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.811</Modified>
+      <Modified>2024-07-03T11:26:43.914</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.811</Modified>
+      <Modified>2024-07-03T11:26:43.914</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.810</Modified>
+      <Modified>2024-07-03T11:26:43.913</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.810</Modified>
+      <Modified>2024-07-03T11:26:43.913</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.810</Modified>
+      <Modified>2024-07-03T11:26:43.913</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.809</Modified>
+      <Modified>2024-07-03T11:26:43.912</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.810</Modified>
+      <Modified>2024-07-03T11:26:43.913</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.809</Modified>
+      <Modified>2024-07-03T11:26:43.913</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.804</Modified>
+      <Modified>2024-07-03T11:26:43.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.804</Modified>
+      <Modified>2024-07-03T11:26:43.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.803</Modified>
+      <Modified>2024-07-03T11:26:43.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.803</Modified>
+      <Modified>2024-07-03T11:26:43.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.803</Modified>
+      <Modified>2024-07-03T11:26:43.906</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.805</Modified>
+      <Modified>2024-07-03T11:26:43.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.805</Modified>
+      <Modified>2024-07-03T11:26:43.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.805</Modified>
+      <Modified>2024-07-03T11:26:43.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.804</Modified>
+      <Modified>2024-07-03T11:26:43.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.804</Modified>
+      <Modified>2024-07-03T11:26:43.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.806</Modified>
+      <Modified>2024-07-03T11:26:43.910</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.806</Modified>
+      <Modified>2024-07-03T11:26:43.909</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.806</Modified>
+      <Modified>2024-07-03T11:26:43.909</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.806</Modified>
+      <Modified>2024-07-03T11:26:43.909</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.805</Modified>
+      <Modified>2024-07-03T11:26:43.909</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.803</Modified>
+      <Modified>2024-07-03T11:26:43.906</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.802</Modified>
+      <Modified>2024-07-03T11:26:43.906</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.802</Modified>
+      <Modified>2024-07-03T11:26:43.906</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.802</Modified>
+      <Modified>2024-07-03T11:26:43.906</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.802</Modified>
+      <Modified>2024-07-03T11:26:43.905</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.813</Modified>
+      <Modified>2024-07-03T11:26:43.916</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.813</Modified>
+      <Modified>2024-07-03T11:26:43.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.812</Modified>
+      <Modified>2024-07-03T11:26:43.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.812</Modified>
+      <Modified>2024-07-03T11:26:43.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-07-02T12:09:40.812</Modified>
+      <Modified>2024-07-03T11:26:43.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\libre.deps.json">
       <PackagePath>libre.deps.json</PackagePath>
-      <Modified>2024-07-02T12:24:56.801</Modified>
+      <Modified>2024-07-03T11:26:44.711</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -297,6 +297,14 @@
     <AppxPackagedFile Include="C:\Users\mwas\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2023-10-16T19:41:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mwas\.nuget\packages\communitytoolkit.mvvm\8.2.2\lib\net6.0\CommunityToolkit.Mvvm.dll">
+      <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
+      <Modified>2023-10-24T20:16:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mwas\.nuget\packages\firebaseauthentication.net\4.1.0\lib\netstandard2.0\Firebase.Auth.dll">
+      <PackagePath>Firebase.Auth.dll</PackagePath>
+      <Modified>2023-09-07T14:50:22.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -425,6 +433,10 @@
     <AppxPackagedFile Include="C:\Users\mwas\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2024-03-11T10:57:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mwas\.nuget\packages\newtonsoft.json\13.0.2\lib\net6.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2022-11-24T02:10:26.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
