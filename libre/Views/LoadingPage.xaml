@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="libre.Views.LoadingPage"
-             Title="LoadingPage">
+<ContentPage
+    x:Class="libre.Views.LoadingPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="LoadingPage">
+
     <VerticalStackLayout>
-        <Label 
+        <Label
+            HorizontalOptions="Center"
             Text="loading!!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+            VerticalOptions="Center" />
     </VerticalStackLayout>
 </ContentPage>

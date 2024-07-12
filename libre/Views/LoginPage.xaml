@@ -76,7 +76,8 @@
                     <Button
                         Grid.Row="4"
                         BackgroundColor="#1C375C"
-                        Command="{Binding LoginBtn}"
+                        Clicked="OnNavigateToLoadingPageClicked"
+                        Command="{Binding NavigateCommand}"
                         CornerRadius="20"
                         Text="Login" />
 

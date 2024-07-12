@@ -3,14 +3,26 @@
     x:Class="libre.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:Views="clr-namespace:libre.Views"
     xmlns:local="clr-namespace:libre"
-    Title="libre"
-    Shell.FlyoutBehavior="Disabled">
-
-    <ShellContent
-        Title="libre point of sale "
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
-    
-
+    Title="libre">
+    <!--  shell flyout  -->
+    <FlyoutItem Route="MainPage">
+        <ShellContent
+            Title="libre point of sale"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" />
+    </FlyoutItem>
+    <FlyoutItem Route="LoadingPage">
+        <ShellContent
+            Title="Loading Page"
+            ContentTemplate="{DataTemplate Views:LoadingPage}"
+            Route="LoadingPage" />
+    </FlyoutItem>
+    <FlyoutItem Route="PointOfSale">
+        <ShellContent
+            Title="libre point of sale"
+            ContentTemplate="{DataTemplate Views:PointofSale}"
+            Route="PointOfSale" />
+    </FlyoutItem>
 </Shell>
