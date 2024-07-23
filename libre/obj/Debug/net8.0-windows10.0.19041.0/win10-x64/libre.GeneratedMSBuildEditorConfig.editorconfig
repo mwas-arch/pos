@@ -36,6 +36,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = libre.Resources.Styles.Sty
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
+[C:/Users/mwas/source/repos/libre/libre/Views/HeartOfPos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = libre.Views.HeartOfPos.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\HeartOfPos.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\HeartOfPos.xaml
+
 [C:/Users/mwas/source/repos/libre/libre/Views/LoadingPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = libre.Views.LoadingPage.xaml

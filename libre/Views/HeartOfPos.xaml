@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="libre.Views.HeartOfPos"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="HeartOfPos">
+    <ScrollView>
+        <Grid>
+            <!--  Outer Grid  -->
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <!--  First row (auto-sized)  -->
+                <RowDefinition Height="Auto" />
+                <!--  Second row (auto-sized)  -->
+                <RowDefinition Height="Auto" />
+                <!--  Third row (auto-sized)  -->
+                <RowDefinition Height="Auto" />
+                <!--  Fourth row (auto-sized)  -->
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <!--  First column  -->
+                <ColumnDefinition />
+                <!--  Second column  -->
+            </Grid.ColumnDefinitions>
+
+            <!--  Nested Grid in the first row and first column  -->
+            <Grid Grid.Row="0" Grid.Column="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <!--  First column of nested Grid  -->
+                    <ColumnDefinition />
+                    <!--  Second column of nested Grid  -->
+                </Grid.ColumnDefinitions>
+
+                <!--  Entry control in the first column and first row of nested grid  -->
+                <Entry
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    Placeholder="Enter something" />
+
+                <!--  Button control in the second column and first row of nested grid  -->
+                <Button
+                    Grid.Row="0"
+                    Grid.Column="1"
+                    Text="search" />
+            </Grid>
+
+            <!--  Label in the first row and second column of the outer grid  -->
+            <Label
+                Grid.Row="0"
+                Grid.Column="1"
+                Text="cart summary" />
+
+            <!--  Other elements in other rows/columns (if any)  -->
+        </Grid>
+    </ScrollView>
+</ContentPage>

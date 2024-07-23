@@ -17,4 +17,16 @@ public partial class PointofSale : ContentPage
 
 
 	}
+
+
+
+	private async void OnNavigateToHeartOfPos(object sender, EventArgs e)
+	{
+		await Navigation.PushAsync(new HeartOfPos());
+
+
+
+	}
+
+
 }
