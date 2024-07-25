@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\mwas\source\repos\libre\libre\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-07-23T11:44:47.081</Modified>
+      <Modified>2024-07-25T17:27:07.266</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-07-23T10:38:37.637</Modified>
+      <Modified>2024-07-24T12:05:23.445</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\libre.runtimeconfig.json">
       <PackagePath>libre.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\libre.dll">
       <PackagePath>libre.dll</PackagePath>
-      <Modified>2024-07-23T11:44:44.083</Modified>
+      <Modified>2024-07-25T17:27:05.150</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>libre.exe</PackagePath>
-      <Modified>2024-07-23T11:44:44.315</Modified>
+      <Modified>2024-07-25T17:27:05.230</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -288,7 +288,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\source\repos\libre\libre\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\libre.deps.json">
       <PackagePath>libre.deps.json</PackagePath>
-      <Modified>2024-07-23T10:38:36.337</Modified>
+      <Modified>2024-07-24T12:05:22.950</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mwas\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

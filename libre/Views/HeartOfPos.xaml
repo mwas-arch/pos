@@ -50,9 +50,85 @@
             <Label
                 Grid.Row="0"
                 Grid.Column="1"
+                HorizontalOptions="End"
                 Text="cart summary" />
 
-            <!--  Other elements in other rows/columns (if any)  -->
+            <!--  Collection view that displays search results and items in the first column second row  -->
+            <CollectionView Grid.Row="1" Grid.Column="0" />
+            <BoxView
+                Grid.Row="1"
+                Grid.Column="0"
+                HeightRequest="50"
+                HorizontalOptions="CenterAndExpand"
+                VerticalOptions="CenterAndExpand"
+                WidthRequest="100" />
+            <!--  Inner grid in the second column second row  -->
+            <Grid Grid.Row="1" Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <!--  First row (auto-sized)  -->
+                    <RowDefinition Height="Auto" />
+                    <!--  Second row (auto-sized)  -->
+                </Grid.RowDefinitions>
+
+                <!--  Summary of the items  -->
+
+                <CollectionView Grid.Row="0" />
+
+                <BoxView
+                    Grid.Row="0"
+                    HeightRequest="50"
+                    HorizontalOptions="CenterAndExpand"
+                    VerticalOptions="CenterAndExpand"
+                    WidthRequest="100"
+                    Color="LightBlue" />
+                <!--  Inner grid in a nested grid  -->
+
+                <Grid Grid.Row="1" Grid.Column="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <!--  Labels  -->
+                    <Label Grid.Column="0" Text="total amount" />
+                    <Label Grid.Column="1" Text="placeholder" />
+                </Grid>
+            </Grid>
+
+            <!--  inner grid third row  -->
+
+            <Grid Grid.Row="2" Grid.ColumnSpan="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <!--  First column  -->
+                    <ColumnDefinition Width="*" />
+                    <!--  Second column  -->
+                    <ColumnDefinition Width="*" />
+                    <!--  third collum  -->
+                    <ColumnDefinition Width="*" />
+                    <!--  forth collum  -->
+                </Grid.ColumnDefinitions>
+                <!--  button on nested grid on row 3  -->
+                <Button Grid.Column="0" Text="cash" />
+                <Button Grid.Column="1" Text="M_PESA" />
+                <Button Grid.Column="2" Text="cash" />
+                <Button Grid.Column="3" Text="cash" />
+
+            </Grid>
+
+            <Grid Grid.Row="3" Grid.ColumnSpan="2">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <!--  first collum  -->
+                    <ColumnDefinition Width="*" />
+                    <!--  second collum  -->
+                </Grid.ColumnDefinitions>
+
+                <Button Grid.Column="0" Text="print receipt" />
+                <Button Grid.Column="1" Text="logout" />
+
+            </Grid>
         </Grid>
     </ScrollView>
 </ContentPage>
